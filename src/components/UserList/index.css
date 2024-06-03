@@ -1,0 +1,26 @@
+/* UserList.css */
+
+.user-list {
+    margin-top: 20px;
+    background-color: rgb(220, 240, 245);
+    height: 100vh;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .user-list-item {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-left: 40px;
+  }
+  
+  .user-list-item strong {
+    margin-left: 45px;
+  }
+  
+  .user-list-item br {
+    display: none; /* Hide line breaks between user details */
+  }
+  

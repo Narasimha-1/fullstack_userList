@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(220, 240, 245);
+    height: 100vh;
+    padding: 20px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    padding: 20px;
+    margin: 10px;
+}
+
+.input{
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.button{
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    height: 40px;
+    width: 70px;
+    border-radius: 10px;
+}
